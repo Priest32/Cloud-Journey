@@ -30,7 +30,25 @@ Rather than learning only individual AWS services, my goal is to develop the bro
 ### Current Status
 
 **Learn to Cloud:** Phase 0  
-**Current step:** Prepare to Learn  
-**Started:** 23 September 2026
+# Cloud Journey Log
+
+## September 2026
+
+### Phase 0: Foundations
+
+#### 1. Prepare to Learn
+**Status:** Completed
+
+Covered:
+- Learning routines
+- Pomodoro technique
+- Managing distractions
+- Building a consistent study routine
+- Learning effectively rather than consuming endless roadmap content
+
+#### 2. What is Linux
+**Status:** In Progress
+
+Starting: 23 September 2026
 
 This repository will be updated as I learn, build, troubleshoot and complete practical work.
