@@ -32,8 +32,8 @@ Four hands-on AWS projects, each built, tested, documented, then torn down to av
 
 | # | Project | Status | Key Services |
 |---|---------|--------|---------------|
-| 1 | [Highly Available Web Application](./projects/01-ha-web-app) | Not started | VPC, EC2, ALB, Auto Scaling, IAM, CloudWatch |
-| 2 | [Serverless Student Management API](./projects/02-serverless-student-api) | Not started | API Gateway, Lambda, DynamoDB |
+| 1 | [Highly Available Web Application](./projects/01-ha-web-app) | Completed | VPC, EC2, ALB, Auto Scaling, IAM, CloudWatch |
+| 2 | [Serverless Student Management API](./projects/02-serverless-student-api) | Completed | API Gateway, Lambda, DynamoDB |
 | 3 | [Secure Cloud File Storage (School Document Management)](./projects/03-secure-file-storage) | Not started | S3, Lambda, API Gateway, IAM |
 | 4 | [Event-Driven Order/Notification System](./projects/04-event-driven-notifications) | Not started | SQS, Lambda, SNS, DLQ |
 
